@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "repo": "dtx-mixer-skins",
+  "updated": "2026-11-01",
+  "skins": [
+    {
+      "id": "skin-01",
+      "name": "Yamaha MG12XUK Mixer",
+      "version": "3.1",
+      "author": "DTX Skin Project",
+      "path": "skins/skin-01/",
+      "files": {
+        "skin.json": {
+          "sha256": "20c320a04a4b0a2a09eb6e7e9f774bf658516f5a93103791622f2c11ce517fd9",
+          "size": 14460
+        },
+        "skin.svg": {
+          "sha256": "40980b795b97b95e9fcb06025bc29cafba1dc8eff14c47ecc1000084dc734e6f",
+          "size": 202866
+        },
+        "preview.svg": {
+          "sha256": "a347b431333ca9925bbc5633a2c088280e86f16561ef0205b5015cdf41edf176",
+          "size": 204666
+        }
+      }
+    },
+    {
+      "id": "skin-02",
+      "name": "dB Voice 602-RV Mixer",
+      "version": "3.0",
+      "author": "DTX Skin Project",
+      "path": "skins/skin-02/",
+      "files": {
+        "skin.json": {
+          "sha256": "4820cbcf106e57632c511fdbe73cc8e82dcdc7cea986220b9d074db1601d87db",
+          "size": 15719
+        },
+        "skin.svg": {
+          "sha256": "67b41db6556517a7d8332f83aa1330b7c95fe08683867006d03d8e349d632900",
+          "size": 167693
+        },
+        "preview.svg": {
+          "sha256": "0bba684ceb59c67572f4ee257677b963798128bcbc1f4b0111f609779493b263",
+          "size": 169733
+        }
+      }
+    }
+  ]
+}
